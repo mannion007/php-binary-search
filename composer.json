@@ -1,6 +1,7 @@
 {
     "name": "mannion007/composer",
     "description": "My first ever compose package, just for fun",
+    "homepage": "http://www.mannionking.com"
     "authors": [
         {
             "name": "James Mannion",
