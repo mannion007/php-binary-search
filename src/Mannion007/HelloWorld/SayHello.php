@@ -1,5 +1,5 @@
 <?php
-namespace HelloWorld;
+namespace Mannion007\HelloWorld;
 
 class SayHello
 {
