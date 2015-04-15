@@ -8,7 +8,10 @@
 
 namespace Mannion007\HelloWorld;
 
-
-class SaySomethingElse {
-
+class SaySomethingElse
+{
+    public static function sayIt()
+    {
+        return 'This is something else!';
+    }
 }
