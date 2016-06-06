@@ -1,5 +1,6 @@
 {
     "name": "mannion007/php-binary-search",
+    "license": "MIT",
     "description": "Based on the Work of Michael King, this package provides functionality to perform a binary search of an ordered array, providing greatly improved performance over PHP's own array_search method.",
     "homepage": "https://github.com/mannion007",
     "authors": [
