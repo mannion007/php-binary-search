@@ -8,3 +8,6 @@ To install, use Composer thusly:
 ~~~~
 composer require mannion007/php-binary-search
 ~~~~
+License
+=======
+This code falls under the MIT license.
