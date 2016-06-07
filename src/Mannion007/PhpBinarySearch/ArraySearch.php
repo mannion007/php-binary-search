@@ -21,7 +21,7 @@ class ArraySearch
         $low = 0,
         $containsDuplicates = false
     ) {
-        $key = false;
+        $key = -1;
         while ($high >= $low) {
             $mid = (int)floor(($high + $low) / 2);
             $cmp = call_user_func($compare, $needle, $haystack[$mid]);
