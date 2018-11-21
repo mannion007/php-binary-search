@@ -1,8 +1,8 @@
 {
-    "name": "mannion007/php-binary-search",
+    "name": "AntoineTB/php-binary-search",
     "license": "MIT",
-    "description": "Based on the Work of Michael King, this package provides functionality to perform a binary search of an ordered array, providing greatly improved performance over PHP's own array_search method.",
-    "homepage": "https://github.com/mannion007",
+    "description": "Binary search function for PHP",
+    "homepage": "https://github.com/AntoineTB",
     "authors": [
         {
           "name": "Michael King",
@@ -11,18 +11,22 @@
         {
             "name": "James Mannion",
             "email": "mannion007@gmail.com"
+        },
+        {
+            "name": "Antoine Theriault-Brunet",
+            "email": "atb1248@gmail.com"
         }
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=5.6.0"
+        "php": ">=7.1"
     },
     "autoload": {
         "psr-0": {
-            "Mannion007\\PhpBinarySearch": "src/"
+            "AntoineTB\\PhpBinarySearch": "src/"
         }
     },
     "require-dev": {
-        "phpunit/phpunit": "5.4.2"
+        "phpunit/phpunit": "^7"
     }
 }
