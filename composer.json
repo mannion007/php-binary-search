@@ -15,7 +15,7 @@
         {
           "name": "Michael King",
           "email": "michael@mkwd.net"
-        },
+        }
     ],
     "minimum-stability": "dev",
     "require": {
