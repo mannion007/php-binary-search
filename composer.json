@@ -5,17 +5,17 @@
     "homepage": "https://github.com/AntoineTB",
     "authors": [
         {
-          "name": "Michael King",
-          "email": "michael@mkwd.net"
+            "name": "Antoine Theriault-Brunet",
+            "email": "atb1248@gmail.com"
         },
         {
             "name": "James Mannion",
             "email": "mannion007@gmail.com"
         },
         {
-            "name": "Antoine Theriault-Brunet",
-            "email": "atb1248@gmail.com"
-        }
+          "name": "Michael King",
+          "email": "michael@mkwd.net"
+        },
     ],
     "minimum-stability": "dev",
     "require": {
